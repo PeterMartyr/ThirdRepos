@@ -12,6 +12,7 @@ namespace MyNameSpace
     {
         public AboutBox1()
         {
+        	//bsajkhgsadjsadguasdghjsadjhsadjhfysda
             InitializeComponent();
 
             //  Initialize the AboutBox to display the product information from the assembly information.
